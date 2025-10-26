@@ -1,0 +1,11 @@
+{
+  "name": "simple-exe-download",
+  "version": "1.0.0",
+  "description": "A simple website to download an .exe file",
+  "scripts": {
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
